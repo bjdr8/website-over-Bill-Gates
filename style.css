@@ -1,0 +1,11 @@
+body{background-color: lightblue}
+h2{color: gray}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: blue;
+}
+
+.flex-container{background-color: }
