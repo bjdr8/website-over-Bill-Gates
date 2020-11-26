@@ -10,4 +10,6 @@ h2{color: gray}
 
 .flex-container{background-color: }
 
-table{border="1px"}
+table, th, td {
+  border: 1px solid black;
+}
